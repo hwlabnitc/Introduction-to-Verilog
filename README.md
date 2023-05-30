@@ -4,176 +4,180 @@
 
 
 
-####  Q1:8 bit AND gate
+####  Q1: 8 bit AND gate
 
-Code:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/and_gate_8bit.v
 
-Testbench:
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/and_gate_test.v
 
 
-#### Q2:16 bit OR gate
+#### Q2: 16 bit OR gate
 
-Code:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/or_gate_16.v
 
-Testbench:
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/or_gate_test.v
 
-#### Q3:32 bit XOR gate
+#### Q3: 32 bit XOR gate
 
-Code:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/xor_gate_32.v
 
-Testbench:
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/xor_gate_test.v
 
-#### Q4:NAND gates
+#### Q4: NAND gates
 
-Code:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/nand_all.v
 
-Testbench:
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/nand_all_test.v
 
-#### Q5:NOR gates
+#### Q5: NOR gates
 
-Code:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/nor_all.v
 
-Testbench:
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/nor_all_test.v
 
-#### Q6:Half Adder
+#### Q6: Half Adder
 
-Code:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/half_adder.v
 
-Testbench:
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/half_adder_test.v
 
-#### Q7:Full Adder
+#### Q7: Full Adder
 
-Code:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/full_adder.v
 
-Testbench:
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/full_adder_test.v
 
-#### Q8:Full Adder 2.
+#### Q8: Full Adder 2.
 
-Code:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/fa.v
 
-#### Q9:Ripple Carry Adder
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/fa_test.v
 
-Code:
+#### Q9: Ripple Carry Adder
 
-Testbench:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/ripple_carry.v
 
-#### Q10:Ripple Carry Adder 8 bit
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/ripple_carry_test.v
 
-Code:
+#### Q10: Ripple Carry Adder 8 bit
 
-Testbench:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/ripple_carry8.v
 
-#### Q11:BCD adder
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/ripple_carry8_test.v
 
-Code:
+#### Q11: BCD adder
 
-Testbench:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/bcd_adder.v
 
-#### Q12:BCD converted
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/bcd_adder_test.v
 
-Code:
+#### Q12: BCD converter
 
-Testbench:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/bcd.v
 
-#### Q13:Half Subtractor
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/bcd_tb.v
 
-Code:
+#### Q13: Half Subtractor
 
-Testbench:
+Code:https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/half_sub.v
 
-#### Q14:Ful Subtractor
+Testbench:https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/half_sub_test.v
 
-Code:
+#### Q14: Full Subtractor
 
-Testbench:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/full_sub.v
 
-#### Q15:Array of Gates
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/full_sub_test.v
 
-Code:
+#### Q15: Array of Gates
 
-Testbench:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/array_gates.v
 
-#### Q16:SR Latch
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/array_gates_test.v
 
-Code:
+#### Q16: SR Latch
 
-Testbench:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/sr_latch.v
 
-#### Q17:Clocked S-R latch.
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/sr_latch_test.v
 
-Code:
+#### Q17: Clocked S-R latch.
 
-Testbench:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/csr_latch.v
 
-#### Q18:Clocked D latch with synchronous preset and clear.
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/csr_latch_test.v
 
-Code:
+#### Q18: Clocked D Latch with synchronous preset and clear.
 
-Testbench:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/dl_sync.v
 
-#### Q19:D flip-flop with synchronous preset and clear.
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/dlatch_sync_test.v
 
-Code:
+#### Q19: D flip-flop with synchronous preset and clear.
 
-Testbench:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/dff_sync.v
 
-#### Q20:Clocked D latch with asynchronous preset and clear.
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/dff_sync_test.v
 
-Code:
+#### Q20: Clocked D latch with asynchronous preset and clear.
 
-Testbench:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/d_aync_pr_clr.v
 
-#### Q21:D flip-flop with asynchronous preset and clear.
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/d_aync_pr_clr_tb.v
 
-Code:
+#### Q21: D flip-flop with asynchronous preset and clear.
 
-Testbench:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/dff_aync_pr_clr.v
+
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/dff_aync_pr_clr_tb.v
 
 #### Q22:
 
-Code:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/m41.v
 
-Testbench:
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/m41_test.v
 
-#### Q23:Multiplier 4
+#### Q23: Multiplier 4
 
-Code:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/multiplier_4.v
 
-Testbench:
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/multiplier_4_test.v
 
-#### Q24:4:1 MUX
+#### Q24: 4:1 MUX
 
-Code:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/mux_41.v
 
-Testbench:
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/mux_41_test.v
 
-#### Q25:16:4 MUX
+#### Q25: 16:4 MUX
 
-Code:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/mux16_4.v
 
-Testbench:
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/mux16_test.v
 
-#### Q26:16 bit MUX
+#### Q26: 16 bit MUX
 
-Code:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/mux16.v
 
-Testbench:
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/mux16_test.v
 
-#### Q27:
+#### Q27:Multiplexer
 
-Code:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/multiplexer.v
 
-Testbench:
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/multiplexer_test.v
 
-#### Q28:Quadruple TWO-to-ONE Multiplexer
+#### Q28: Quadruple TWO-to-ONE Multiplexer
 
-quad_21_mux.v
+Code:https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/quad_21_mux.v
 
-#### Q29:1:4 DEMUX
+Testbench:https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/quad_21_mux_test.v
 
-Code:
+#### Q29: 1:4 DEMUX
 
-Testbench:
+Code:https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/demux_14.v
+
+Testbench:https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/demux_14_test.v
 
 #### Q30:
 
@@ -183,29 +187,29 @@ func_81.v
 
 fabc.v
 
-#### Q32:3:8 decoder
+#### Q32: 3:8 decoder
 
-Code:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/decoder_38.v
 
-Testbench:
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/decoder_38_tb.v
 
 #### Q33: 4:16 decoder
 
-Code:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/decoder_416.v
 
-Testbench:
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/decoder_416_tb.v
 
-#### Q34:Binary to Grey Code converter
+#### Q34: Binary to Grey Code converter
 
-Code:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/binary_grey.v
 
-Testbench:
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/binary_grey_test.v
 
-#### Q35:Gray to Binary Converter
+#### Q35: Gray to Binary Converter
 
-Code:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/binary_grey_16.v
 
-Testbench:
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/binary_grey_16_test.v
 
 #### Q36:
 
@@ -213,39 +217,39 @@ grey_binary_16.v
 
 #### Q37:Excess 3 code
 
-Code:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/excess_3_code.v
 
-Testbench:
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/excess_3_code_test.v
 
-#### Q38:8 bit register
+#### Q38: 8 bit register
 
-Code:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/reg_8.v
 
-Testbench:
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/reg_8_tb.v
 
-#### Q39:Shist register
+#### Q39: Shift register
 
-Code:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/shift_reg.v
 
-Testbench:
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/shift_reg_test.v
 
-#### Q40:ALU
+#### Q40: ALU
 
-Code:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/alu.v
 
-Testbench:
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/alu_test.v
 
-#### Q41:Serial Adder
+#### Q41: Serial Adder
 
-Code:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/serial_add.v
 
-Testbench:
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/serial_add_test.v
 
-#### Q42:Serial Subtractor
+#### Q42: Serial Subtractor
 
-Code:
+Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/serial_sub.v
 
-Testbench:
+Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/serial_sub_test.v
 
 
 
