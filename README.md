@@ -179,9 +179,11 @@ Code:https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/demu
 
 Testbench:https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/demux_14_test.v
 
-#### Q30:
+#### Q30:FOUR input Binary function F(w, x ,y, z)=∑𝑚(1, 3, 5, 7, 8, 13, 14, 15) with 8:1 Multiplexer
 
-func_81.v
+Code:https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/func_81.v
+
+Testbench:https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/func_81_test.v
 
 #### Q31:
 
@@ -205,15 +207,15 @@ Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/bin
 
 Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/binary_grey_test.v
 
-#### Q35: Gray to Binary Converter
+#### Q35:  Binary to Grey Converter 16 bit
 
 Code: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/binary_grey_16.v
 
 Testbench: https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/binary_grey_16_test.v
 
-#### Q36:
+#### Q36:Grey to Binary
 
-grey_binary_16.v
+https://github.com/hwlab-csed/Introduction-to-Verilog/blob/main/Sample/grey_binary_16.v
 
 #### Q37:Excess 3 code
 
