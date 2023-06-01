@@ -1,6 +1,6 @@
 # Introduction-to-Verilog
 
-### Implement the following logic function using VerilogHDL with each of the three modeling techniques (Gate- level modeling, Dataflow modeling, and Behavioral modeling). Subsequently, Simulate and verify all the given logic functions using ModelSim integrated with Quartus Prime Lite Edition Software.
+### Implement the following logic function using VerilogHDL with the appropriate modeling techniques (Gate- level modeling, Dataflow modeling, and Behavioral modeling). Subsequently, Simulate and verify all the given logic functions using ModelSim integrated with Quartus Prime Lite Edition Software.
 
 
 
